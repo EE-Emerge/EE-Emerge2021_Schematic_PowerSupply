@@ -4,3 +4,4 @@
 * Sean Alling (Teaching Assistant)
 * Avery Turk
 * Aiseosa Omorogieva
+* Ryan Kim
