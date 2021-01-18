@@ -5,3 +5,4 @@
 * Avery Turk
 * Aiseosa Omorogieva
 * Ryan Kim
+* Victoria Liera
