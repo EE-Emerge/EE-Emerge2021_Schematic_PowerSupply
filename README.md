@@ -2,7 +2,7 @@
 
 # Team Members
 * Sean Alling (Teaching Assistant)
+* Victoria Liera (Team Leader)
 * Avery Turk
 * Aiseosa Omorogieva
 * Ryan Kim
-* Victoria Liera
